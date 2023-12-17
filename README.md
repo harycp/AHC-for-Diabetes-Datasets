@@ -10,4 +10,4 @@ Discover the clusters:
 
 Dive into the nuances of each cluster and unravel the insights within! 🌟✨
 
-![Deskripsi Gambar](https://github.com/harycp/AHC-for-Diabetes-Datasets/blob/8ceb4f34c5d728fef7738fb31cacc1681f60fb41/Screenshot%202023-12-17%20114051.png)
+![Cluster determination dendogram](https://github.com/harycp/AHC-for-Diabetes-Datasets/blob/8ceb4f34c5d728fef7738fb31cacc1681f60fb41/Screenshot%202023-12-17%20114051.png)
